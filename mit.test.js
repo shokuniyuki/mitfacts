@@ -25,4 +25,8 @@ describe('MIT', () => {
     test('Motto', () => {
         expect(mit.motto).toMatch('Mens');
     });
+
+    test('student name', () => {
+        expect(mit.student).toBe('Sho Kuniyuki-Hirahara');
+    });
 });

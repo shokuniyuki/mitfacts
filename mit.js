@@ -4,4 +4,5 @@ var mit = {
     mascot: "robot",
     founded: 1875,
     motto: 'Mens',
+    student: 'Sho Kuniyuki-Hirahara',
 };
